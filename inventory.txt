@@ -1,0 +1,12 @@
+[DepartmentList]
+Size:2
+[Department]
+Name:Deli
+[Inventory]
+Size:3
+SerialNumber:2139
+LotNumber:124124
+ManufactDate:07/05/21
+
+
+
